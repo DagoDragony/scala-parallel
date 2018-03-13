@@ -1,0 +1,3 @@
+# Unifies line endings.
+* text=auto
+*.sh eol=lf
